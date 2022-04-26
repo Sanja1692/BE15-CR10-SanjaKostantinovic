@@ -80,7 +80,7 @@ Bonus Points:
 
 Note: Don’t forget to upload the PHP code together with your database .sql file to the GitHub repository. Please organize your project content (files) into folders according to their type.
 
-Feedback: 85 Points
+Feedback: 85/120 Points
 Serri:
 	
 Hey Sanja,
